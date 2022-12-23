@@ -1,2 +1,2 @@
 # ResearchTopic
-##D* pathfinding algorithm
+## D* pathfinding algorithm
